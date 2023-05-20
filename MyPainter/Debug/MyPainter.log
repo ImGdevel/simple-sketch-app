@@ -1,0 +1,15 @@
+﻿  DialogueListener.cpp
+  Group.cpp
+  main.cpp
+C:\Users\imdls\WorkSpace\VisualStuio\MyPainter\MyPainter\main.cpp(10,13): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  MenuListener.cpp
+  MyCircle.cpp
+  MyFrame.cpp
+  MyLine.cpp
+  MyListener.cpp
+  MyRect.cpp
+  MyShape.cpp
+  TypeListener.cpp
+  ValueListener.cpp
+  코드를 생성하고 있습니다...
+  MyPainter.vcxproj -> C:\Users\imdls\WorkSpace\VisualStuio\MyPainter\Debug\MyPainter.exe

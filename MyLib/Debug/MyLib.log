@@ -1,0 +1,33 @@
+﻿  Bar.cpp
+  Box.cpp
+  Button.cpp
+  CheckBox.cpp
+  ColorBox.cpp
+  Container.cpp
+  Dialogue.cpp
+  FlowLayout.cpp
+  Frame.cpp
+C:\Users\imdls\WorkSpace\VisualStuio\MyPainter\MyLib\Frame.cpp(83,48): warning C4302: '형식 캐스트': 'LPWSTR'에서 'WORD'(으)로 잘립니다.
+  GridLayout.cpp
+  HorizontalLayout.cpp
+  Layout.cpp
+  Menu.cpp
+  MenuBar.cpp
+  MyEvent.cpp
+C:\Users\imdls\WorkSpace\VisualStuio\MyPainter\MyLib\MyEvent.cpp(20,16): warning C4244: 'return': 'TCHAR'에서 'char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\imdls\WorkSpace\VisualStuio\MyPainter\MyLib\MyEvent.cpp(102,22): warning C4244: '초기화 중': 'long double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MyWindows.cpp
+  RadioButton.cpp
+  RadioGroup.cpp
+  Slide.cpp
+  TextButton.cpp
+  코드를 생성하고 있습니다...
+C:\Users\imdls\WorkSpace\VisualStuio\MyPainter\MyLib\Frame.cpp(40): warning C4715: 'WndProc': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  TextDialogue.cpp
+  TextLabel.cpp
+  TextPutDialogue.cpp
+  ToolBar.cpp
+  VerticalLayout.cpp
+  코드를 생성하고 있습니다...
+  MyLib.vcxproj -> C:\Users\imdls\WorkSpace\VisualStuio\MyPainter\Debug\MyLib.lib
