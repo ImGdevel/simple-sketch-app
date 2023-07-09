@@ -1,2 +1,2 @@
-### simple-sketch-app
+# simple-sketch-app
 
