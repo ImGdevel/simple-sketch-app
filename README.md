@@ -1,5 +1,7 @@
 # simple-sketch-app
 
+
+
 The Simple Sketch app is an application that allows users to draw on a digital canvas. Its key features include:
 
 - Drawing Tools: Users can select various drawing tools such as shapes, text, and a pencil to draw on the canvas. Additionally, the app provides options to adjust the thickness of lines and an eraser tool to remove drawn elements.
@@ -7,6 +9,10 @@ The Simple Sketch app is an application that allows users to draw on a digital c
 - Save and Load: Users have the ability to save their sketches and later load them for further editing or viewing. The app typically saves the sketch content in a text file, enabling users to open and edit their work later.
 
 The Simple Sketch app utilizes a custom-developed library called "MyLib," which provides a set of Windows-based interfaces and control patterns for implementation. This library allows the app to use various features like buttons, pop-up windows, menu bars, and more. Applications that use this library can leverage its functionalities for a consistent user experience.
+
+
+---
+
 
 심플 스케치 앱은 사용자가 디지털 캔버스에 그림을 그릴 수 있는 기능을 제공하는 어플리케이션입니다. 주요 기능은 다음과 같습니다:
 
