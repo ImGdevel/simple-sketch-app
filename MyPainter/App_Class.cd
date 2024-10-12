@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DialogueListener" Collapsed="true">
+    <Position X="1.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAgIAAAAAAAAAAA=</HashCode>
+      <FileName>DialogueListener.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Group" Collapsed="true">
+    <Position X="1.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEAAAAAAAAAAAAgCAAAAAAAgAAAAAAAAggAAAQA=</HashCode>
+      <FileName>Group.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuListener" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAIAAACAAAAAAA=</HashCode>
+      <FileName>MenuListener.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyCircle" Collapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgCAAAAAAAQAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>MyCircle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyFrame" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hACAggAQAQAAYAugBAACggAQAQEIAAJJjIgIAAAEIAQ=</HashCode>
+      <FileName>MyFrame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyLine" Collapsed="true">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgCAAAAAAAAAAAAIAAAgAAAAAA=</HashCode>
+      <FileName>MyLine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyListener" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>MyListener.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyRect" Collapsed="true">
+    <Position X="8.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgCAAAAAAEAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>MyRect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyShape" Collapsed="true">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQgAAAAgAYAAIABAQgCAAAAAwAACADAAQAAgiAAiQA=</HashCode>
+      <FileName>MyShape.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TypeListener" Collapsed="true">
+    <Position X="3.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>TypeListener.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ValueListener" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>ValueListener.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

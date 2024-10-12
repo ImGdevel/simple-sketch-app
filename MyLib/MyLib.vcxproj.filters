@@ -15,6 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="VerticalLayout.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="Bar.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -85,9 +88,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="ToolBar.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="VerticalLayout.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
@@ -176,5 +176,8 @@
     <ClInclude Include="VerticalLayout.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Lib_Class.cd" />
   </ItemGroup>
 </Project>

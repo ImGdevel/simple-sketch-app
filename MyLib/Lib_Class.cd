@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bar" Collapsed="true">
+    <Position X="18.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAACAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Bar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Box" Collapsed="true">
+    <Position X="23" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Box.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Button" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECAAAAAAAAAAQAEAQACAACAAAAABCAABAAQgAAAAAA=</HashCode>
+      <FileName>Button.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CheckBox" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAIAAAAAAAAAAEAAACAAAAAAAAAAAABAAAhAAAAAA=</HashCode>
+      <FileName>CheckBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColorBox" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAEAAAAAEAAAAAAAAgAAIAAA=</HashCode>
+      <FileName>ColorBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Container" Collapsed="true">
+    <Position X="22" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAQAAAAAAAAAAEACAAAAAgAAAAAARAAQAgAAAAA=</HashCode>
+      <FileName>Container.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dialogue" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAIAQQAABACAAAAACAAAAYgBAAAEEBACAAAAAAAA=</HashCode>
+      <FileName>Dialogue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlowLayout" Collapsed="true">
+    <Position X="3.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAQCAAAAAAAAAAAAIAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>FlowLayout.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Frame" Collapsed="true">
+    <Position X="27.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAACAAAAAAAAgAAIBAAAAAAAAAE=</HashCode>
+      <FileName>Frame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GridLayout" Collapsed="true">
+    <Position X="8" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAgAAAAAAAAAABAAA=</HashCode>
+      <FileName>GridLayout.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HorizontalLayout" Collapsed="true">
+    <Position X="10.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HorizontalLayout.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Layout" Collapsed="true">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAQAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Layout.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Listener" Collapsed="true">
+    <Position X="24.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Listener.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="25.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABCAAAAAAAIAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuBar" Collapsed="true">
+    <Position X="20.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAARAAAAAAAAAA=</HashCode>
+      <FileName>MenuBar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyEvent" Collapsed="true">
+    <Position X="26.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAQAAAAAAAAAAAAAAIAYAAACAAAAAAEAAABAAAgA=</HashCode>
+      <FileName>MyEvent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyWindows" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RAQiNAAAQAYABsAAAAQCAgYghCAAAJBYZAAIhAAIAKQ=</HashCode>
+      <FileName>MyWindows.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RadioButton" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAABAAAggAAAAA=</HashCode>
+      <FileName>RadioButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RadioGroup" Collapsed="true">
+    <Position X="16.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIQAAAAAAAAQA=</HashCode>
+      <FileName>RadioGroup.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Slide" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Slide.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextButton" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextDialogue" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEAAAAAAAAAAAAAAAQCACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TextDialogue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextLabel" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAACAAAAICAAAAAAAEACAABAAAAAAEAAA=</HashCode>
+      <FileName>TextLabel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextPutDialogue" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACACEAAAAACAAAAAAAAAAAABgAAAAACAAE=</HashCode>
+      <FileName>TextPutDialogue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToolBar" Collapsed="true">
+    <Position X="18.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARACAAAAAAAA=</HashCode>
+      <FileName>ToolBar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VerticalLayout" Collapsed="true">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>VerticalLayout.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
