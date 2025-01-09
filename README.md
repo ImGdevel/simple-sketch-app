@@ -34,4 +34,3 @@ The Simple Sketch app utilizes a custom-developed library called "MyLib," which 
 #### App
 
 ![App_Class](https://github.com/user-attachments/assets/d37b2c6e-16b0-4bb2-b18c-e8f4397e796b)
-
